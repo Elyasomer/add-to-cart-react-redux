@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/add-to-cart-react-redux/static/css/main.b33c5d63.chunk.css",
+    "main.js": "/add-to-cart-react-redux/static/js/main.92396b52.chunk.js",
+    "main.js.map": "/add-to-cart-react-redux/static/js/main.92396b52.chunk.js.map",
+    "runtime-main.js": "/add-to-cart-react-redux/static/js/runtime-main.8fd52327.js",
+    "runtime-main.js.map": "/add-to-cart-react-redux/static/js/runtime-main.8fd52327.js.map",
+    "static/js/2.909abaad.chunk.js": "/add-to-cart-react-redux/static/js/2.909abaad.chunk.js",
+    "static/js/2.909abaad.chunk.js.map": "/add-to-cart-react-redux/static/js/2.909abaad.chunk.js.map",
+    "static/js/3.47b27bd9.chunk.js": "/add-to-cart-react-redux/static/js/3.47b27bd9.chunk.js",
+    "static/js/3.47b27bd9.chunk.js.map": "/add-to-cart-react-redux/static/js/3.47b27bd9.chunk.js.map",
+    "index.html": "/add-to-cart-react-redux/index.html",
+    "static/css/main.b33c5d63.chunk.css.map": "/add-to-cart-react-redux/static/css/main.b33c5d63.chunk.css.map",
+    "static/js/2.909abaad.chunk.js.LICENSE.txt": "/add-to-cart-react-redux/static/js/2.909abaad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fd52327.js",
+    "static/js/2.909abaad.chunk.js",
+    "static/css/main.b33c5d63.chunk.css",
+    "static/js/main.92396b52.chunk.js"
+  ]
+}
