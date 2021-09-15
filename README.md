@@ -1,4 +1,4 @@
-#Live demo at : https://elyasomer.github.io/add-to-cart-react-redux/
+# Live demo at : https://elyasomer.github.io/add-to-cart-react-redux/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
